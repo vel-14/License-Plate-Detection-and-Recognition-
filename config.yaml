@@ -1,0 +1,8 @@
+path: /Users/velmurugan/Desktop/@/python_works/License plate detection
+train: images/train
+val: images/val
+
+#classes
+names:
+  0: Licence_Plate
+  
