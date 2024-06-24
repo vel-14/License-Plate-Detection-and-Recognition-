@@ -28,7 +28,7 @@ The detection layers predict bounding boxes and class probabilities directly fro
 ### CRNN: 
 CRNN combines convolutional layers for feature extraction and recurrent layers for sequence modeling. It is used for recognizing  characters from license plates.
 
-### Architecture:
+#### Architecture:
 
 CNN Layers: Extract features from input license plate images.
 RNN Layers: Process the sequential nature of character recognition.
